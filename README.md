@@ -4,9 +4,9 @@ React Native ToDo app built following YouTube Tutorial from MadeWithMatt [https:
 **App screenshots:**
 
 **Blank landing page after app start**<br><br>
-![Screenshot1](https://github.com/josippr/React-Native-ToDo-app/blob/main/screenshots/ToDoList_screenshot2.jpeg)
+![Screenshot1](https://github.com/josippr/React-Native-ToDo-app/blob/main/screenshots/ToDoList_screenshot2.jpeg)<br><br>
 **Landing page with several tasks**<br><br>
 ![Screenshot2](https://github.com/josippr/React-Native-ToDo-app/blob/main/screenshots/ToDoList_screenshot1.jpeg)
-![Screenshot3](https://github.com/josippr/React-Native-ToDo-app/blob/main/screenshots/ToDoList_screenshot3.jpeg)
+![Screenshot3](https://github.com/josippr/React-Native-ToDo-app/blob/main/screenshots/ToDoList_screenshot3.jpeg)<br><br>
 **Adding tasks (app behavior after keyboard pops up)**<br><br>
-![Screenshot4](https://github.com/josippr/React-Native-ToDo-app/blob/main/screenshots/ToDoList_screenshot4.jpeg)
+![Screenshot4](https://github.com/josippr/React-Native-ToDo-app/blob/main/screenshots/ToDoList_screenshot4.jpeg)<br><br>
