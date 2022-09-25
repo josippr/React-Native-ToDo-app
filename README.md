@@ -1,7 +1,7 @@
 # React-Native-ToDo-app
 React Native ToDo app built following YouTube Tutorial from MadeWithMatt [https://www.youtube.com/c/MadeWithMatt]
 
-Download stable build here (Android only, iOS and Desktop coming soon): https://josippr.github.io/website/index.html
+Download stable build here (Android only, iOS and Desktop coming soon): https://josippr.github.io/website/
 -----------------------------------------------
 **App screenshots:**
 
